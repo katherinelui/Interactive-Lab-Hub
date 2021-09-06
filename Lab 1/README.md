@@ -72,6 +72,12 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
+
+The setting is that when people use bathroom, it is hard to know which bathroom is empty when all the doors are closed. 
+This interaction add a light on the door of the bathroom and it will turn on when people entered in the bathroom, and turn off when people left, in order to indicate whether there is people in the bathroom.
+
+
+
 \*\***Include a picture of your storyboard here**\*\*
 
 
