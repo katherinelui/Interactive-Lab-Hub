@@ -95,7 +95,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
-Our device simple so there is no big dicrepancy between paper and acting out.
+There is no big dicrepancy between paper and acting out.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
