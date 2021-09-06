@@ -74,6 +74,8 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 
 \*\***Include a picture of your storyboard here**\*\*
 
+
+
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
@@ -125,10 +127,11 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+Link to the video: https://youtu.be/yaJoGvfSGLI
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+Yuxuan Zhang
 
 
 # Staging Interaction, Part 2 
