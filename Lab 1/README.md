@@ -95,8 +95,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+Our device simple so there is no big dicrepancy between paper and acting out.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+After acting out the interaction, we figure out that the light should be placed next to the doornob for better visibility. 
 
 ## Part C. Prototype the device
 
@@ -104,11 +107,12 @@ You will be using your smartphone as a stand-in for the device you are prototypi
 
 Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
 
-We invented this tool for this lab! 
 
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
+Cannot run smoothly on Mac.
 
 
 ## Part D. Wizard the device
@@ -141,7 +145,7 @@ Link to the video: https://youtu.be/yaJoGvfSGLI
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-Yuxuan Zhang
+Yuxuan Zhang (yz627
 
 
 # Staging Interaction, Part 2 
