@@ -76,6 +76,8 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 
 
 
+![image](https://github.com/katherinelui/Interactive-Lab-Hub/blob/Fall2021/Lab%201/WechatIMG40.jpeg)
+
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
