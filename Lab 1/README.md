@@ -202,3 +202,5 @@ Updated picture of our storyboard:
 Picture of custuming the device:
 
 ![image](https://github.com/katherinelui/Interactive-Lab-Hub/blob/Fall2021/Lab%201/%E6%88%AA%E5%B1%8F2021-09-12%E4%B8%8B%E5%8D%885.41.31.png)
+
+video of your prototyped interaction: https://youtu.be/msT9CEgVr8k
